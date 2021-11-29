@@ -1,0 +1,17 @@
+
+<resources>
+    <string name="app_name">About Me</string>
+
+    <string name="bio">Basic Things About Me
+\n\nMy name is Mert Kagan Kabukcu
+\n\nI am 23 and I am studying Computer Engineering in Cukurova University
+\n I love football and my favorite team is Galatasaray which is a team from Istanbul-Turkey
+\n\n I was playing football in young team in Galatasaray as a left-back
+\n My favorite hobbie after football is going to the cinema I try to do that twice a year for 6 years
+\n Because of that I literally know almost every movie published past 6 years
+</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="name">Mert Kagan Kabukcu</string>
+</resources>
